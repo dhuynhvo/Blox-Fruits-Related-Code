@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Blox Fruits Parser/1.0.0": {
+        "runtime": {
+          "Blox Fruits Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blox Fruits Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

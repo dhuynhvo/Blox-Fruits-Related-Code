@@ -1,0 +1,8 @@
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.csproj.AssemblyReference.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Interop.MediaPlayer.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.csproj.ResolveComReference.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.AssemblyInfoInputs.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.AssemblyInfo.cs
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\netcoreapp3.1\Blox Fruits Parser.csproj.CoreCompileInputs.cache

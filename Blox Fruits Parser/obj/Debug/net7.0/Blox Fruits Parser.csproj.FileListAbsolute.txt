@@ -1,0 +1,17 @@
+C:\Users\danvi\source\repos\Blox Fruits Parser\bin\Debug\net7.0\Blox Fruits Parser.exe
+C:\Users\danvi\source\repos\Blox Fruits Parser\bin\Debug\net7.0\Blox Fruits Parser.deps.json
+C:\Users\danvi\source\repos\Blox Fruits Parser\bin\Debug\net7.0\Blox Fruits Parser.runtimeconfig.json
+C:\Users\danvi\source\repos\Blox Fruits Parser\bin\Debug\net7.0\Blox Fruits Parser.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\bin\Debug\net7.0\Blox Fruits Parser.pdb
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.csproj.AssemblyReference.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.AssemblyInfoInputs.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.AssemblyInfo.cs
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.csproj.CoreCompileInputs.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\refint\Blox Fruits Parser.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.pdb
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.genruntimeconfig.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\ref\Blox Fruits Parser.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Blox Fruits Parser.csproj.ResolveComReference.cache
+C:\Users\danvi\source\repos\Blox Fruits Parser\obj\Debug\net7.0\Interop.WMPLib.dll

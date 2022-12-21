@@ -1,0 +1,5 @@
+C:\Users\danvi\source\repos\Blox Fruits Parser\Blox Fruits Parser.exe
+C:\Users\danvi\source\repos\Blox Fruits Parser\Blox Fruits Parser.dll
+C:\Users\danvi\source\repos\Blox Fruits Parser\Blox Fruits Parser.deps.json
+C:\Users\danvi\source\repos\Blox Fruits Parser\Blox Fruits Parser.runtimeconfig.json
+C:\Users\danvi\source\repos\Blox Fruits Parser\Blox Fruits Parser.pdb
